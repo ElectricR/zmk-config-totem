@@ -22,7 +22,7 @@
 		        , <&macro_release &mo MACRO_PLACEHOLDER>
 		        ;
 		};
-	}
+	};
 
     keymap {
         compatible = "zmk,keymap";
