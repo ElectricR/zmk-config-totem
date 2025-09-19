@@ -53,7 +53,7 @@
 					bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
                 &kp F14     &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &none       &none       &none       &none       &none       &none
-                &lm 0 LGUI  &none       &kp UP      &none       &none           &none       &none       &none       &none       &kp BSPC
+                &lm 1 LGUI  &none       &kp UP      &none       &none           &none       &none       &none       &none       &kp BSPC
     &none       &none       &kp LEFT    &kp DOWN    &kp RIGHT   &none           &none       &none       &none       &none       &kp DEL     &none
                                         &none       &none       &none           &kp F13     &none       &none
                     >;
